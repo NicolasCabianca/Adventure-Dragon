@@ -172,7 +172,7 @@ function preload() {
 
   chaveDImg = loadImage("Img/chaveDugeon.png");
   inventarioImg = loadImage("Img/inventario2.png");
-  invBarracaImg = loadImage("Img/invBarraca.png");
+  invBarracaImg = loadImage("Img/invbarraca.png");
 
   pocaoCImg = loadImage("Img/maisVida.png");
 
