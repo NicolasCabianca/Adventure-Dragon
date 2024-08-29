@@ -1087,7 +1087,7 @@ class Game {
               if (this.missaoDesbloqueada4) {
                 this.missaoNumero4++;
               }
-              if (this.missaoNumero4 == 1){
+              if (this.missaoNumero4 == 18){
                 if(!player.bt && player.personagem == 3){
                   player.bt = true;
                console.log("bt")   
