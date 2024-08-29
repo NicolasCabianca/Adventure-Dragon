@@ -55,7 +55,7 @@ var indice = 0;
 var cavF;
 var chaveDugeon, chaveDImg;
 var inventarioImg;
-var invBarracaImg;
+
 var pocaoC, pocaoCImg;
 var PT1, PT2;
 var PT3, PT4;
@@ -166,7 +166,7 @@ function preload() {
 
   chaveDImg = loadImage("Img/chaveDugeon.png");
   inventarioImg = loadImage("Img/inventario2.png");
-  invBarracaImg = loadImage("Img/invbarraca.png");
+
 
   pocaoCImg = loadImage("Img/maisVida.png");
 
